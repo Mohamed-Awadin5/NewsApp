@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  NewsApp
 //
-//  Created by mohamed awadin7 on 04/12/2025.
-//
+//  Created by mohamed awadin7 on 04/10/2025.
 
 import UIKit
 import CoreData
